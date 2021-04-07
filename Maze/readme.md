@@ -1,7 +1,7 @@
 # Maze solver application
 Basic WPF .NET5 application on architecture MVVM
 
-##Image
+## Image
 ![Application](maze-example.png)
 
 ## Algorithm
